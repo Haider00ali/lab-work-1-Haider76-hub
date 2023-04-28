@@ -8,7 +8,7 @@ if(i>15)
 
 
 
-print("10 is biger than 15 );
+printf("10 is biger than 15 );
 
 
 }
