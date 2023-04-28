@@ -4,11 +4,14 @@
 int main(void)
 {
 
+int i= 10;
+if(i>15)
+{
 
-string name = get_string("What's your name");
+printf("10greater than 15");
 
-printf("hello, %s\n",name);
 
+}
 
 
 
