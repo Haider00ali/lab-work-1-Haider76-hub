@@ -4,14 +4,10 @@
 int main(void)
 {
 
-int i= 10;
-if(i>15)
-{
 
-printf("10greater than 15");
+int i=10;
 
 
-}
 
 
 
